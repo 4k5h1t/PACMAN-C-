@@ -22,9 +22,11 @@ We use the WASD keys to move.
 
 <img align="center" src="https://user-images.githubusercontent.com/73750950/195000171-b8dd2f75-6cec-44e1-82c5-a9174dccd184.png">
 
-<img align="center" src="https://user-images.githubusercontent.com/73750950/195000253-7e9658c6-0c54-44fa-a481-32ea4856550d.png">
+<img align="center" src="https://user-images.githubusercontent.com/73750950/195000253-7e9658c6-0c54-44fa-a481-32ea4856550d.png">  
 
+</br>
 <img align="center" src="https://user-images.githubusercontent.com/73750950/195000343-1fc34598-21fb-4ea7-9d99-320118defe8e.png"> 
+</br>
 
 </p>
 

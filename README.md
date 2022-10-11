@@ -8,6 +8,8 @@ This was coded using Code:Blocks 17:12.
 
 We use the WASD keys to move.
 
+<p align="center">
+
 <img align="center" src="https://user-images.githubusercontent.com/73750950/194999822-b01a67da-3694-4903-823b-22a587fde0d2.png">
 
 <img align="center" src="https://user-images.githubusercontent.com/73750950/194999918-67451fc8-6d3c-41b9-bb02-88a0aaca5d9d.png">
@@ -22,8 +24,14 @@ We use the WASD keys to move.
 
 <img align="center" src="https://user-images.githubusercontent.com/73750950/195000253-7e9658c6-0c54-44fa-a481-32ea4856550d.png">
 
-<img align="center" src="https://user-images.githubusercontent.com/73750950/195000343-1fc34598-21fb-4ea7-9d99-320118defe8e.png"> </br>
+<img align="center" src="https://user-images.githubusercontent.com/73750950/195000343-1fc34598-21fb-4ea7-9d99-320118defe8e.png"> 
 
+</p>
+
+<p align = "center">
+  
 <img align="center" src="https://user-images.githubusercontent.com/73750950/195000372-a867ee3b-dcd6-47eb-8194-2014ed3c9e1b.png">
 
 <img align="center" src="https://user-images.githubusercontent.com/73750950/195000396-aa3c9d76-ae90-4b56-b135-2ef5f5332e50.png">
+  
+</p>
